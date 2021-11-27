@@ -1,0 +1,3 @@
+ - create proper form with selectors for to and from datetime, and from to place.
+ - fetch and parse the date, time, place parameters and store the values into proper variables.
+ - after obtaining values, do a search on the database (JSON data for now).
